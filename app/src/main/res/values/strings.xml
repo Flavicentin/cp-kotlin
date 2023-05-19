@@ -1,0 +1,14 @@
+
+    <resources>
+        <string name="app_name">App de Pagamentos</string>
+        <string name="transfer_title">Qual é o valor da transferência PIX?</string>
+        <string name="enter_transfer_value">Digite o valor desejado</string>
+        <string name="continue_button">Continuar</string>
+        <string name="transfer_to_whom">Para quem você deseja enviar %s?</string>
+        <string name="enter_pix_key">Digite a chave PIX</string>
+        <string name="confirm_transfer_button">Confirmar transferência</string>
+        <string name="revise_pix_key_button">Revisar chave PIX</string>
+        <string name="transfer_value">Transferindo %s</string>
+        <string name="pix_key">Chave PIX: %s</string>
+        <string name="transfer_success">%s enviados para a chave PIX %s</string>
+    </resources>
