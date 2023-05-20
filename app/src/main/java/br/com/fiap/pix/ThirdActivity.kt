@@ -26,6 +26,8 @@ class ThirdActivity : AppCompatActivity() {
         val confirmTransferButton: Button = findViewById(R.id.confirmTransferButton)
         confirmTransferButton.setOnClickListener {
             val intent = Intent(this, FourthActivity::class.java)
+            intent.putExtra("transferValue", transferValue)
+            intent.putExtra("pixKey", pixKey)
             startActivity(intent)
         }
 

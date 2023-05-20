@@ -10,5 +10,5 @@
         <string name="revise_pix_key_button">Revisar chave PIX</string>
         <string name="transfer_value">Transferindo %s</string>
         <string name="pix_key">Chave PIX: %s</string>
-        <string name="transfer_success">%s enviados para a chave PIX %s</string>
+        <string name="transfer_success">R$ %s enviado para a chave PIX %s</string>
     </resources>
